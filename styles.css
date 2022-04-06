@@ -1,0 +1,23 @@
+body {  margin: 0;
+        padding: 0;
+        }
+
+#map {  position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        border-radius: 10px;
+        }
+
+.map-overlay {  position: absolute;
+                left: 0;
+                padding: 10px
+                }
+
+.btns { border-radius: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1em;
+        background-color: rgb(80, 168, 168);
+        }
+
+ 
