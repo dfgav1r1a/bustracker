@@ -14,10 +14,13 @@ body {  margin: 0;
                 padding: 10px
                 }
 
-.btns { border-radius: 15px;
-        font-family: 'Times New Roman', Times, serif;
+.btns { border-radius: 5px;
+        width: 10em;
+        height: 3em;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size: 1em;
-        background-color: rgb(80, 168, 168);
+        color: aliceblue;
+        background-color: rgb(32, 81, 214);
         }
 
  
